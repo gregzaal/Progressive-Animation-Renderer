@@ -1,2 +1,3 @@
 # Progressive-Animation-Renderer
-A standalone app for rendering Blender Cycles scenes progressively (increasing in quality over time)
+
+For now this is just a placeholder repository. No actual work has been done.
